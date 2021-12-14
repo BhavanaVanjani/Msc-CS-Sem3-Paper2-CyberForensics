@@ -1,4 +1,4 @@
-**Aim: create a java application to send encrypted message from sender end and decrypt  message at receiver end.**
+Aim: create a java application to send encrypted message from sender end and decrypt  message at receiver end.
 Description: 
 Encryption isasecuritymethodinwhichinformationisencodedinsuchawaythatonly authorized usercanreadit.Itusesencryptionalgorithmtogenerateciphertextthatcanonlybe readif decrypted. 
 Therearetwotypesofencryptionsschemesaslistedbelow: 
